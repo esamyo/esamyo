@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Esam 👋
 
-<!--
-**esamyo/esamyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build calm, ad-free tech for the living room, with the help of AI.
 
-Here are some ideas to get you started:
+<a href="https://github.com/esamyo/luxury-tv"><img src="https://raw.githubusercontent.com/esamyo/luxury-tv/main/docs/screenshots/focus.jpg" width="640" alt="Luxury TV"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Luxury TV](https://github.com/esamyo/luxury-tv)**: a quiet, luxurious home screen and gold and silver clock screensaver for Android TV and Google TV. 0.32 MB, free, open source, no ads, no tracking.
+
+📥 On the TV: open **Downloader** and type **`3190694`**
+
+---
+
+<div dir="rtl">
+
+### أهلًا، أنا عصام 👋
+
+أصمم تقنية هادئة وبدون إعلانات للشاشات، بمساعدة الذكاء الاصطناعي.
+
+**[Luxury TV](https://github.com/esamyo/luxury-tv)**: واجهة فاخرة لأجهزة Android TV و Google TV، مع ساعة ذهبية بالنهار وفضية بالليل. مجانية ومفتوحة المصدر.
+
+📥 على التلفزيون: افتح **Downloader** واكتب **`3190694`** · [دليل التثبيت بالصور](https://github.com/esamyo/luxury-tv/blob/main/docs/install.md)
+
+</div>
+
+---
+
+[X @XeXsXm](https://x.com/XeXsXm) · Al-Madinah, Saudi Arabia 🇸🇦
